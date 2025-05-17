@@ -17,10 +17,10 @@
 ## 📸 Screenshots
 
 ### 🧪 Initial UI
-![App Home](assets/screenshot 2025-05-16 090606.png)
+![App Home](assets/screenshot_home.png)
 
 ### 📷 Sample Diagnosis Output
-![Diagnosis Result](assets/screenshot 2025-05-16 090629.png)
+![Diagnosis Result](assets/screenshot_result.png)
 
 ---
 
@@ -28,7 +28,6 @@
 
 - **Model Architecture**: ResNet-18
 - **Framework**: PyTorch
-- **Dataset**: [PlantDoc Dataset](https://github.com/pratikkayal/PlantDoc-Dataset)
 - **Accuracy**: ~98.5% (custom trained)
 
 ---
