@@ -17,10 +17,10 @@
 ## 📸 Screenshots
 
 ### 🧪 Initial UI
-![App Home](assets/screenshot_home.png)
+![App Home](assets/Screenshot_home.png)
 
 ### 📷 Sample Diagnosis Output
-![Diagnosis Result](assets/screenshot_result.png)
+![Diagnosis Result](assets/Screenshot_result.png)
 
 ---
 
