@@ -5,3 +5,4 @@ tensorflow
 opencv-python
 numpy
 Pillow
+python-3.10.12
